@@ -14,7 +14,11 @@
   - 整体性：服务于一个根本目标
   - 适应性：支持解决遇到的问题
 
-## 个人知识体系框架
+## 个人知识管理系统的框架
+
+###
+
+![知识管理三层结构](./km-3layers.png)
 
 ### 工作流程的知识体系
 
@@ -37,6 +41,15 @@
 
 基于职业目标的能力知识体系，是个人层面上最完整的知识体系框架。
 
-###
+## 工作流程的优化
 
-![知识管理三层结构](./km-3layers.png)
+### 复盘法
+
+- Team&Process&Tool&Method
+- 把一件事情重复做 3 次
+
+## 参考文献
+
+- [Knowledge Management](http://wiki.li3huo.com/Knowledge_Management)
+- [学习力：颠覆职场学习的高效方法](http://wiki.li3huo.com/book/Learning_Ability_by_WangShimin)
+- [复盘](http://wiki.li3huo.com/Replay)
