@@ -4,21 +4,32 @@
 
 ## 每个人都该构建自己的知识管理体系
 
+### 知识管理
+
+- 知识管理(Knowledge management, KM)是对知识和信息的创造、共享、使用和管理的过程。它指的是通过充分利用知识来实现组织目标的多学科方法
+- 知识管理是一门自1991年建立的学科
+- 1999年，个人知识管理(personal knowledge management)这个术语被引入；它指的是个体层面的知识管理
+
+### 知识体系对认知水平和学习效率的影响
+
+- 连接新知识的能力
 - 解决问题的通用步骤
   - 确定问题类型
   - 明确解决步骤
   - 确定工具和方法
-- 知识体系对认知水平和学习效率的影响
-  - 连接新知识的能力
-- 知识体系的评价标准
-  - 整体性：服务于一个根本目标
-  - 适应性：支持解决遇到的问题
+
+### 知识体系的评价标准
+
+- 整体性：服务于一个根本目标
+- 适应性：支持解决遇到的问题
 
 ## 个人知识管理系统的框架
 
-###
+### 个人知识管理体系分层
 
-![知识管理三层结构](./km-3layers.png)
+- 第一层：工作流程知识
+- 第二层：业务领域知识
+- 第三层：能力知识
 
 ### 工作流程的知识体系(Level 1)
 
@@ -72,15 +83,17 @@
 
 ## 参考文献
 
-### Knowledge Management
+### 1
 
 - [Knowledge Management](http://wiki.li3huo.com/Knowledge_Management)
 
-### 《学习力》 by 王世民 / 缪志聪
+### 2
 
-- [学习力：颠覆职场学习的高效方法](http://wiki.li3huo.com/book/Learning_Ability_by_WangShimin)
+- [《学习力：颠覆职场学习的高效方法》](http://wiki.li3huo.com/book/Learning_Ability_by_WangShimin) by 王世民 / 缪志聪
 
-### 复盘
+![知识管理三层结构](./km-3layers.png)
+
+### 3
 
 - [复盘](http://wiki.li3huo.com/Replay)
   - [PDCA]((http://wiki.li3huo.com/PDCA))
