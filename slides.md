@@ -27,9 +27,7 @@
 
 ### 个人知识管理体系分层
 
-- 第一层：工作流程知识
-- 第二层：业务领域知识
-- 第三层：能力知识
+![知识管理三层结构](./pkm.png)
 
 ### 工作流程的知识体系(Level 1)
 
@@ -86,6 +84,8 @@
 ### 1
 
 - [Knowledge Management](http://wiki.li3huo.com/Knowledge_Management)
+
+![显性知识和隐性知识之间的螺旋式互动](./knowledge-spiral.svg)
 
 ### 2
 
